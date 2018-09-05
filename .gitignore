@@ -1,3 +1,5 @@
 /.env
 /.project
 /.pydevproject
+/vault-restore*.sh
+/vault-restore.sh
